@@ -8,17 +8,17 @@ Metriport helps healthcare organizations access comprehensive patient clinical h
 
 <div align="center">
   <a href="https://metriport.com?utm_source=orgreadmemain&utm_id=github">
-    <img width="786" alt="metriport is an open-source platform for healthcare data" src="https://github.com/metriport/.github/assets/6843426/1a339bc7-422b-4cbd-a4d2-b0ad435c6b96">
+    <img width="786" alt="metriport is an open-source platform for healthcare data" src="https://github.com/metriport/.github/assets/6843426/115d0553-461b-4a62-91a5-9d5d3721fac4">
   </a>
 </div>
 
 
-<div style="display: flex; justify-content: space-between; padding: 20px;">
+<div align="center" style="display: flex; justify-content: space-between; padding: 20px;">
    <a href="https://metriport.com?utm_source=orgreadmeapi&utm_id=github">
-    <img width="350" style="margin-right: 20px;" alt="metriport open-source universal api for healthcare data with fhir support" src="https://github.com/metriport/.github/assets/6843426/cb1cd551-cb42-4027-b72e-b76b90f862c7">
+    <img width="380" style="margin-right: 20px;" alt="metriport open-source universal api for healthcare data with fhir support" src="https://github.com/metriport/.github/assets/6843426/cb1cd551-cb42-4027-b72e-b76b90f862c7">
    </a>
   <a href="https://metriport.com?utm_source=orgreadmedash&utm_id=github">
-    <img width="350" alt="metriport provider dashboard for healthcare data access and management" src="https://github.com/metriport/.github/assets/6843426/0cf70565-ce2b-471e-9774-e13d199cd00d">
+    <img width="380" alt="metriport provider dashboard for healthcare data access and management" src="https://github.com/metriport/.github/assets/6843426/0cf70565-ce2b-471e-9774-e13d199cd00d">
    </a>
   
 </div>
