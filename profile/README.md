@@ -15,10 +15,10 @@ Metriport helps healthcare organizations access comprehensive patient clinical h
 
 <div align="center" style="display: flex; justify-content: space-between; padding: 20px;">
    <a href="https://metriport.com?utm_source=orgreadmeapi&utm_id=github">
-    <img width="380" style="margin-right: 20px; pointer-events: none;" alt="metriport open-source universal api for healthcare data with fhir support" src="https://github.com/metriport/.github/assets/6843426/cb1cd551-cb42-4027-b72e-b76b90f862c7">
+    <img width="380" style="margin-right: 20px;" alt="metriport open-source universal api for healthcare data with fhir support" src="./assets/api.png">
    </a>
   <a href="https://metriport.com?utm_source=orgreadmedash&utm_id=github">
-    <img width="380" style="pointer-events: none;" alt="metriport provider dashboard for healthcare data access and management" src="https://github.com/metriport/.github/assets/6843426/0cf70565-ce2b-471e-9774-e13d199cd00d">
+    <img width="380" alt="metriport provider dashboard for healthcare data access and management" src="./assets/dash.png">
    </a>
   
 </div>
