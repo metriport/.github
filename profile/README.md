@@ -2,9 +2,6 @@
 
 <img width="3168" height="796" alt="Healthcare data infrastructure for next generation care delivery" src="https://github.com/user-attachments/assets/d2294f1a-9ad8-4d8c-9359-f47481c1c130" />
 
-Complete real-time patient context from every source that matters, transformed into relevant intelligence for your care teams and their AI agents.
-
-
   <p align="center">
     Complete real-time patient context from every source that matters, transformed into relevant intelligence for your care teams and their AI agents.
     <br />
